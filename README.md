@@ -23,3 +23,9 @@
     <img align="center" alt="PYTHON" src= "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" >
 <div/>
 
+### Banco de Dados
+
+<div style ="display: inline_block"><br/>
+    <img align="center" alt="JAVA" src= "https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" >
+    <img align="center" alt="C#" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" >
+<div/>
